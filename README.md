@@ -1,11 +1,11 @@
-#Loan_Approval_System
+# Loan_Approval_System
 Fundamentals of AI and ML Evaluated Course Project
 
-#Overview of the project
+# Overview of the project
 
 Loan Approval Sysytem is a Machine Learning-based system designed to automate the loan eligibility process. Using historical data, the project predicts whether a loan application will be approved or rejected based on applicant profiles (Income, Credit History, Education, etc.). This project aims to help financial institutions reduce manual errors and speed up decision-making.
 
-#Features
+# Features
 
 1.Data Cleaning: Handles missing values and encodes categorical data for ML processing.
 
@@ -15,7 +15,7 @@ Loan Approval Sysytem is a Machine Learning-based system designed to automate th
 
 4.Model Persistence: The trained model is saved as a .pkl file for real-time deployment.
 
-#Technologies/Tools used
+# Technologies/Tools used
 
 1.Language: Python 3.x
 
@@ -25,7 +25,7 @@ Loan Approval Sysytem is a Machine Learning-based system designed to automate th
 
 4.Deployment Ready: Model saved using joblib
 
-#System Prerequisites
+# System Prerequisites
 
 1.Python 3.8 or higher: The system is built using Python 3. This is required to handle the latest versions of Scikit-Learn and Pandas.
 
@@ -37,7 +37,7 @@ Loan Approval Sysytem is a Machine Learning-based system designed to automate th
 
 (iii)Jupyter Notebook: A standard tool for running and documenting data science experiments.
 
-#Steps to Install & Run the Project
+# Steps to Install & Run the Project
 
 1.Clone the project: git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
@@ -45,7 +45,7 @@ Loan Approval Sysytem is a Machine Learning-based system designed to automate th
 
 3.Run the notebook: Open LoanApproval.ipynb in your preferred editor (VS Code or Colab) and run all cells.
 
-#Instructions for testing
+# Instructions for testing
 
 1.Accuracy Check: Run the evaluation cells to see the Random Forest accuracy score.
 
